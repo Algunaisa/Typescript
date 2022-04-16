@@ -31,6 +31,7 @@ Agrega nuevas características como:
 
 - Interfaces.
 
+Cambia la flexibilidad de Javascript Vanilla por un sistemas mas seguro.
 
  
 
