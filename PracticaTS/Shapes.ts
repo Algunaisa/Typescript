@@ -26,7 +26,7 @@ let alumno: Alumno = new Alumno(27, 1.69, '123546', '123');
 //Un alumno es una persona
 persona2 = alumno;
 //Pero no todas las personas son alumnos
-alumno = persona2;
+//alumno = persona2;
 
 //A un objeto alumno se le puede asignar a uno persona por ser estension de este
 //Ya cuenta con los datos para "llenar" al objeto.
