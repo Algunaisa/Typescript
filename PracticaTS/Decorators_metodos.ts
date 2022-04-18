@@ -1,4 +1,5 @@
 
+//Extender la funcionalidad de elementos: metodos
 //logica de nuestro decorador
 //target: elemento que contiene a lo que estamos extendiendo (Persona3)
 //Key: quien esta utilizando esta logica extendida (sayMyName)
